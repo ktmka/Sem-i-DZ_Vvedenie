@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\bin\Debug\net6.0\Задачи семинара.exe
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\bin\Debug\net6.0\Задачи семинара.deps.json
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\bin\Debug\net6.0\Задачи семинара.runtimeconfig.json
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\bin\Debug\net6.0\Задачи семинара.dll
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\bin\Debug\net6.0\Задачи семинара.pdb
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.dll
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\refint\Задачи семинара.dll
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.pdb
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\Задачи семинара.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\SEMINAR_2\Задачи семинара\obj\Debug\net6.0\ref\Задачи семинара.dll
