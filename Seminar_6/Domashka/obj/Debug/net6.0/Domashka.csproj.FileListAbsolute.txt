@@ -1,0 +1,15 @@
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\bin\Debug\net6.0\Domashka.exe
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\bin\Debug\net6.0\Domashka.deps.json
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\bin\Debug\net6.0\Domashka.runtimeconfig.json
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\bin\Debug\net6.0\Domashka.dll
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\bin\Debug\net6.0\Domashka.pdb
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.csproj.AssemblyReference.cache
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.AssemblyInfoInputs.cache
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.AssemblyInfo.cs
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.dll
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\refint\Domashka.dll
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.pdb
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\Domashka.genruntimeconfig.cache
+D:\GB\Знакомство с ЯП\Seminars\Seminar_6\Domashka\obj\Debug\net6.0\ref\Domashka.dll
